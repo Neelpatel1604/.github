@@ -2,7 +2,10 @@
 
 <div style="background: #ffffff; padding: 20px; border-radius: 15px; margin: 20px 0; text-align: center;">
 
-![Moorcheh.ai Knowledge Graph Formation](https://github.com/user-attachments/assets/8b953413-cd08-4158-b765-d745aa95135c)
+<video width="500" height="500" autoplay muted loop>
+  <source src="moorcheh-ai-graph.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
  
